@@ -7,3 +7,12 @@ print(a)
 print(b)
 print(c)
 print(d)
+
+#zad2
+a=10
+b=5
+dodawanie=a+b
+odejmowanie=a-b
+dzielenie=a/b
+mnozenie=a*b
+print(dodawanie,odejmowanie,dzielenie,mnozenie)
