@@ -53,3 +53,7 @@ imie="VALD"
 nazwisko="POLTAVTSEV"
 print(imie.capitalize())
 print(nazwisko.capitalize())
+
+#zad6
+a='la la la'
+print(a.count('la'))
