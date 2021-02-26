@@ -42,3 +42,14 @@ a=100
 b=1000
 a%=b
 print(a)
+
+#zad4
+e=5
+a=10
+print(e**a)
+
+#zad5
+imie="VALD"
+nazwisko="POLTAVTSEV"
+print(imie.capitalize())
+print(nazwisko.capitalize())
