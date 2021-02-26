@@ -61,3 +61,7 @@ print(a.count('la'))
 #zad7
 a='uniwersytet'
 print(a[1],a[10])
+
+#zad8
+a='la la la'
+print(a.split())
