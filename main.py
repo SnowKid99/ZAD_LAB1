@@ -57,3 +57,7 @@ print(nazwisko.capitalize())
 #zad6
 a='la la la'
 print(a.count('la'))
+
+#zad7
+a='uniwersytet'
+print(a[1],a[10])
